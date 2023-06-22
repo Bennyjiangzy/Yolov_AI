@@ -9,4 +9,6 @@ The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
 * Resize to 416x416 (Stretch)
 
-
+## Essay published Link
+Have original copy in the repo.
+[IEEE](https://ieeexplore.ieee.org/document/9965708)
